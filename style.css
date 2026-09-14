@@ -1,0 +1,13 @@
+.koka{
+    background-color: red;
+
+}
+.row{
+    background-color: gray;
+    
+}
+body{
+    background-image: url(Coca_cola_espuma.jpg);
+}
+tr:hover {background-color: yellow;}
+td:hover {background-color: blue;}
